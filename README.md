@@ -11,8 +11,11 @@ Video explains Context in shellbots :
 
 
 **ai_enginelist** : Display AI engine list present, added and/or managed by framework
+
 **createcontext** : Create a new context 
+
 **getcontext** : Get current context
+
 **usecontext** : Set current context
 
 
@@ -21,5 +24,8 @@ Video explains Context in shellbots :
 ## Primitives extension functions
 
 **bc_addinstance** : Add instance from Microsoft Dynamics 365 Business Central
+
 **bc_getinstance** : List all instance from Microsoft Dynamics 365 Business Central
+
 **bc_removeinstance** : Remove specific instance from Microsoft Dynamics 365 Business Central
+
