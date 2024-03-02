@@ -9,27 +9,37 @@ Video explains Context in shellbots :
 
 ## Primitives core functions
 
-**createcontext** : Create a new context 
+### createcontext :
+Create a new context   
 
-**getcontext** : Get current context
+### getcontext :
+Get current context  
 
-**usecontext** : Set current context
+### usecontext :
+Set current context
 
 ## Primitives Market AI integration functions
 
-**ai_enginecreate** : Create and integrate new AI engine from market
+### ai_enginecreate :
+Create and integrate new AI engine from market
 
-**ai_enginelist** : Display AI engine list present, added and/or managed by framework
+### ai_enginelist :
+Display AI engine list present, added and/or managed by framework
 
-**ai_engineremove** : Remove Market AI engine from shellbots
+### ai_engineremove :
+Remove Market AI engine from shellbots
 
-**ai_engineupdate** : Update AI engine from market
+### ai_engineupdate :
+Update AI engine from market
 
 ## Primitives extension functions
 
-**bc_addinstance** : Add instance from Microsoft Dynamics 365 Business Central
+### bc_addinstance :
+Add instance from Microsoft Dynamics 365 Business Central
 
-**bc_getinstance** : List all instance from Microsoft Dynamics 365 Business Central
+### bc_getinstance :
+List all instance from Microsoft Dynamics 365 Business Central
 
-**bc_removeinstance** : Remove specific instance from Microsoft Dynamics 365 Business Central
+### bc_removeinstance :
+Remove specific instance from Microsoft Dynamics 365 Business Central
 
