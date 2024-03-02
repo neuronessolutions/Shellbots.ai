@@ -43,3 +43,6 @@ List all instance from Microsoft Dynamics 365 Business Central
 ### bc_removeinstance :
 Remove specific instance from Microsoft Dynamics 365 Business Central
 
+## Primitives Algorithms extension functions
+
+## Primitives Tools extension functions
