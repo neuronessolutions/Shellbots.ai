@@ -9,21 +9,19 @@ Video explains Context in shellbots :
 
 ## Primitives core functions
 
-
-**ai_enginelist** : Display AI engine list present, added and/or managed by framework
-
-**ai_enginecreate** : Create and integrate new AI engine from market
-
-**ai_engineupdate** : Update AI engine from market
-
 **createcontext** : Create a new context 
 
 **getcontext** : Get current context
 
 **usecontext** : Set current context
 
+## Primitives Market AI integration functions
 
+**ai_enginecreate** : Create and integrate new AI engine from market
 
+**ai_enginelist** : Display AI engine list present, added and/or managed by framework
+
+**ai_engineupdate** : Update AI engine from market
 
 ## Primitives extension functions
 
