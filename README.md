@@ -21,6 +21,8 @@ Video explains Context in shellbots :
 
 **ai_enginelist** : Display AI engine list present, added and/or managed by framework
 
+**ai_engineremove** : Remove Market AI engine from shellbots
+
 **ai_engineupdate** : Update AI engine from market
 
 ## Primitives extension functions
