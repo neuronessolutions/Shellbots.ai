@@ -9,8 +9,14 @@ Video explains Context in shellbots :
 
 ## Primitives core functions
 
+### clear :
+Clear shellbots terminal 
+
 ### createcontext :
 Create a new context   
+
+### exit :
+Exit shellbots terminal 
 
 ### getcontext :
 Get current context  
