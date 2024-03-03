@@ -30,10 +30,25 @@ Get current context
 ### getobjects :
 Get objects from a current vector database
 
+### systemdb :
+Manage core system database
+
 ### usecontext :
 Set current context
 
 ## Primitives Market AI integration functions
+
+### ai_engineapikeycreate :
+Reference and add an API Key for AI engine
+
+### ai_engineapikeylist :
+Get list of API Keys
+
+### ai_engineapikeyupdate :
+Update an existing API Key for AI engine
+
+### ai_engineapikeyremove :
+Remove an existing API Key for AI engine
 
 ### ai_enginecreate :
 Reference and integrate new AI engine from market
