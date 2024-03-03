@@ -21,7 +21,7 @@ Set current context
 ## Primitives Market AI integration functions
 
 ### ai_enginecreate :
-Create and integrate new AI engine from market
+Reference and integrate new AI engine from market
 
 ### ai_enginelist :
 Display AI engine list present, added and/or managed by framework
