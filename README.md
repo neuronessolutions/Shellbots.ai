@@ -44,9 +44,6 @@ Reference and add an API Key for AI engine
 ### ai_engineapikeylist :
 Get list of API Keys
 
-### ai_engineapikeylistpartial :
-Get list of API Keys with partial value to security for demos for example
-
 ### ai_engineapikeyupdate :
 Update an existing API Key for AI engine
 
@@ -64,6 +61,12 @@ Remove Market AI engine from shellbots
 
 ### ai_engineupdate :
 Update AI engine from market
+
+### ai_setpartialviewON :
+When use ai_engineapikeylist function, key value are partial hidden for security
+
+### ai_setpartialviewOFF :
+When use ai_engineapikeylist function, key value are full displayed
 
 ## Primitives extension functions
 
