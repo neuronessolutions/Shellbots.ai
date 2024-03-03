@@ -9,17 +9,26 @@ Video explains Context in shellbots :
 
 ## Primitives core functions
 
+### adddata :
+Add datas to an exist free file or structured file in vector database
+
 ### clear :
 Clear shellbots terminal 
 
 ### createcontext :
-Create a new context   
+Create a new context  
+
+### createdata :
+Create a new free file or structured file in vector database
 
 ### exit :
 Exit shellbots terminal 
 
 ### getcontext :
 Get current context  
+
+### getobjects :
+Get objects from a current vector database
 
 ### usecontext :
 Set current context
