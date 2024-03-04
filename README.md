@@ -12,6 +12,18 @@ Video explains Context in shellbots :
 ### adddata :
 Add datas to an exist free file or structured file in vector database
 
+### ai_modelcreate :
+Define specific ai model with python code for a context. All models existing in current context are used for result' scoring
+
+### ai_modeledit :
+Edit an existing specific ai model for current context
+
+### ai_modelget :
+Get all ai model from current context
+
+### ai_modelremove :
+Remove an existing ai model from current context
+
 ### clear :
 Clear shellbots terminal 
 
