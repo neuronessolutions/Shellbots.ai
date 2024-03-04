@@ -1,6 +1,11 @@
 # Shellbots.ai - Documentation and Tutorials
 Os and framework ai to create custom AI services and process
 
+## Project Management
+
+![Link to our devops tasks and project management in GitHub to follow dev](https://github.com/users/nuage365/projects/5)
+
+
 ## Architecture
 ![Shellbots ecosystem english version](https://github.com/nuage365/Shellbots.ai/assets/102873102/e8d79929-7c2b-4701-88f8-53d266a1a21f)
 
