@@ -3,7 +3,7 @@ Os and framework ai to create custom AI services and process
 
 ## Project Management
 
-![Link to our devops tasks and project management in GitHub to follow dev](https://github.com/users/nuage365/projects/5)
+[Link to our devops tasks and project management in GitHub to follow dev](https://github.com/users/nuage365/projects/5)
 
 
 ## Architecture
