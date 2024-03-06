@@ -19,7 +19,7 @@ Os and framework ai to create custom AI services and process
 Add datas to an exist free file or structured file in vector database
 
 ### ai_modelcreate :
-Define specific ai model with python code for a context. All models existing in current context are used for result' scoring
+Define specific ai model with python code for a context from specific Ai engine. All models existing in current context are used for result' scoring and integrate to test and automates market AI.
 
 ### ai_modeledit :
 Edit an existing specific ai model for current context
