@@ -5,12 +5,12 @@ Os and framework ai to create custom AI services and process
 
 [Link to our devops tasks and project management in GitHub to follow dev](https://github.com/users/nuage365/projects/5)
 
+## Tutorials
+
+https://github.com/nuage365/Shellbots.ai/blob/main/Tutorials/tuto02%20The%203%20shellbots%20functions%20to%20manage%20Dynamics365%20Business%20central%20instances.md
 
 ## Architecture
 ![Shellbots ecosystem english version](https://github.com/nuage365/Shellbots.ai/assets/102873102/e8d79929-7c2b-4701-88f8-53d266a1a21f)
-
-Video explains Context in shellbots :
-[![Videocoreshellbots](https://github.com/nuage365/Shellbots.ai/assets/102873102/b8061a24-fc51-4a6b-afd8-69e1e1f3903f)](https://youtu.be/kFCFo6XmmH4?feature=shared)
 
 ## Primitives core functions
 
