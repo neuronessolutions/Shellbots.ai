@@ -37,6 +37,11 @@ In this tutorial, we will detail the operation of **the first module and which c
 * At any time to create an AI service for a client in a shellbots context, we can test the integration of an AI from the market, one or more models in parallel, and sequences linked to an AI model before linking it to our machine learning module and analysis and data tools if necessary.
 * Another advantage of the testing engine is that it is capable of running Python at runtime to quickly test new models. So python of python :)
 
-The next tutorial will talk about the data analysis module and the machine learning module. 
+Here is an example here of 4 ai models created for a particular context with certain ai engines only :
+![screenshot2](https://github.com/nuage365/Shellbots.ai/assets/102873102/f2041ad6-553a-406f-b9b8-6346a0cc620b)
+
+
+
+**The next tutorial will talk about the data analysis module and the machine learning module.**
 
 If you have any questions, feel free to send me a connection on Linkedin at https://www.linkedin.com/in/dominiquedelaire/
