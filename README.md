@@ -19,4 +19,9 @@ Os and framework ai to create custom AI services and process
 ## Architecture
 ![Shellbots ecosystem english version](https://github.com/nuage365/Shellbots.ai/assets/102873102/e8d79929-7c2b-4701-88f8-53d266a1a21f)
 
+## Modules
+### Module 1 : Ai model sequences management module
+![shellbotsmodule1sur4](https://github.com/nuage365/Shellbots.ai/assets/102873102/5c3afdc2-3c65-4d36-b5ee-66a22b1b313f)
+[See Tutorial 03 to details.](https://github.com/nuage365/Shellbots.ai/blob/main/Tutorials/Tuto03%20-%20Ai%20model%20sequences%20management%20module.md)
+
 
