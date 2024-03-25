@@ -9,7 +9,7 @@ Os and framework ai to create custom AI services and process
 
 [Tuto01 - Basic functions from shellbots](https://github.com/nuage365/Shellbots.ai/blob/main/Tutorials/Tuto01%20-%20Basic%20functions%20from%20shellbots.md)  
 [Tuto02 - The 3 shellbots functions to manage Dynamics365 Business central instances](https://github.com/nuage365/Shellbots.ai/blob/main/Tutorials/Tuto02%20-%20The%203%20shellbots%20functions%20to%20manage%20Dynamics365%20Business%20central%20instances.md)   
-[Tuto03 - Ai model sequences management module](https://github.com/nuage365/Shellbots.ai/blob/main/Tutorials/Tuto03%20-%20Ai%20model%20sequences%20management%20module.md)
+[Tuto03 - Ai model sequences management module](https://github.com/nuage365/Shellbots.ai/blob/main/Tutorials/Tuto03%20-%20Ai%20model%20sequences%20management%20module.md)   
 [Tuto04 - Machine Learning and LLM management module](https://github.com/nuage365/Shellbots.ai/blob/main/Tutorials/Tuto04%20-%20Machine%20Learning%20and%20LLM%20management%20module.md)
 
 ## Documentation
@@ -25,4 +25,6 @@ Os and framework ai to create custom AI services and process
 ![shellbotsmodule1sur4](https://github.com/nuage365/Shellbots.ai/assets/102873102/5c3afdc2-3c65-4d36-b5ee-66a22b1b313f)
 [See Tutorial 03 to details.](https://github.com/nuage365/Shellbots.ai/blob/main/Tutorials/Tuto03%20-%20Ai%20model%20sequences%20management%20module.md)
 
-
+### Module 2 : Machine learning and LLM management module
+![module2machinelearningshellbots](https://github.com/nuage365/Shellbots.ai/assets/102873102/edbdda3f-5df4-4b6c-879c-01e1039e08a1)
+[See Tutorial 04 to details.](https://github.com/nuage365/Shellbots.ai/blob/main/Tutorials/Tuto04%20-%20Machine%20Learning%20and%20LLM%20management%20module.md)
