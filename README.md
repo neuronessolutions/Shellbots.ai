@@ -30,5 +30,6 @@ Os and framework ai to create custom AI services and process
 [See Tutorial 04 to details.](https://github.com/nuage365/Shellbots.ai/blob/main/Tutorials/Tuto04%20-%20Machine%20Learning%20and%20LLM%20management%20module.md)
 
 ## Deployment to our clients of AI services created with shellbots 
-(Click on image to expand)
-![deploymentshellbots](https://github.com/nuage365/Shellbots.ai/assets/102873102/ad1b3460-6948-4480-8269-8e4dbaf6dbb6)
+(Click image to expand)
+![deploymentshellbotsv2](https://github.com/nuage365/Shellbots.ai/assets/102873102/263b2eed-9266-4414-b612-2ec7e8ae6baf)
+
