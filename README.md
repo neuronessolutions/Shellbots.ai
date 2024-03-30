@@ -1,9 +1,9 @@
 ![logo grand format pour vidéos](https://github.com/nuage365/Shellbots.ai/assets/102873102/4360ca48-a073-4312-9def-5e81c42ef907)
 
-> shellbots.ai is an opensource framework created by the french canadian company Nuage365 that offers ai services for companies with the creation of open source solution and different tools for building artificial intelligence services, building data models to train, predictive analysis and process automation. 
+> shellbots.ai is an opensource framework and os created by the french canadian company Nuage365 that offers ai services for companies with the creation of open source solution and different tools for building artificial intelligence services, building data models to train, predictive analysis and process automation. 
 Its other added value is to have a platform that brings together all the AI ​​engines on the market to perform scoring and build models by business domain to have the most efficient AI services possible.
 
-> [Our Linkedin Page](https://www.linkedin.com/company/shellbots-ai/)  [Our Linkedin Page](https://www.linkedin.com/company/shellbots-ai/) 
+> [Our Linkedin Page](https://www.linkedin.com/company/shellbots-ai/)  [The Nuage365 website (in french)](https://nuage365.ca/) 
 
 # Shellbots.ai - Documentation and Tutorials
 Os and framework ai to create custom AI services and process
