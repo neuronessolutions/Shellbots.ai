@@ -7,7 +7,7 @@ Its other added value is to have a platform that brings together all the AI â€‹â
 
 # Shellbots.ai - Documentation and Tutorials
 Framework and Operating system to create custom AI services and process.   
-Our opensource virtual machine and OS will be available shortly on this platform.
+> Our virtual machine and opensource OS will be available shortly on this platform once all the documentation is completed. We spent around almost 3 years building this platform :)
 
 ## Project Management
 
