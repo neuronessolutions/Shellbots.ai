@@ -41,5 +41,5 @@ Framework and Operating system to create custom AI services and process.
 ## Deployment to our clients of AI services created with shellbots 
 (Click image to expand)
 ![deploymentshellbotsv3](https://github.com/nuage365/Shellbots.ai/assets/102873102/5194d9c2-8d4f-4ac0-a759-9f57fa68c58f)
-
+[See Tutorial 05 to details.](https://github.com/nuage365/Shellbots.ai/blob/main/Tutorials/Tuto05%20-%20Deployment%20of%20our%20AI%20services%20for%20our%20clients.md)
 
