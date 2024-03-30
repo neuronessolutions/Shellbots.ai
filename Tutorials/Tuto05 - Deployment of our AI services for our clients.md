@@ -18,7 +18,8 @@ In this tutorial, we will detail the operation of **the 4th module and which con
 ## OS Optimized Shellbots Virtual Machine for Customer
 * Once the AI ​​service is created for the client's specific needs and tested, we can generate an optimized OS image with only the objects and engines dependent on the created AI service.
 * At this stage, we can also enter all the enterprise version API keys for the AI ​​engines or others specific to the customer.
-* We can also wait for the delivery stage and add these keys in the target environment of use. 
+* We can also wait for the delivery stage and add these keys in the target environment of use.
+* Add connections to source data to link to production data.
 
 ## Delivery on differents platforms
 * The AI ​​service can be delivered on different platforms :
@@ -28,4 +29,4 @@ In this tutorial, we will detail the operation of **the 4th module and which con
   * Containers such as Docker, VmWare, ...
   * And the same technology as source : virtual box on Windows, Linux or MacOS.
   
-If you have any questions, feel free to send me a connection on Linkedin at https://www.linkedin.com/in/dominiquedelaire/
+`If you have any questions, feel free to send me a connection on Linkedin at` https://www.linkedin.com/in/dominiquedelaire/ 
