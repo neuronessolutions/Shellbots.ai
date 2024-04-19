@@ -56,12 +56,38 @@ Another tutorial will cover code generation and data querying via an LLM (Large 
 
 ### bc_queryobjects
 - This function allows you to query any object including BC system objects.
-
+  
 Here, for example, we search for all objects with the name "G/L entry" to search for objects linked to accounting entries
 ![queryobjects1](https://github.com/nuage365/Shellbots.ai/assets/102873102/6b364aec-3b87-4007-b22d-853c80be9d2f)
 
 Same thing here but for vendors
 ![queryobjects2](https://github.com/nuage365/Shellbots.ai/assets/102873102/c9ee5bdd-fb2a-4cef-8abc-727d1eef4b6c)
+
+For our example, we therefore know that the vendors table is table 23.
+
+Now we will list all the fields in vendor table 23 and use function **bc_queryfields**
+
+### bc_queryfields
+- **By querying the fields of this table, we will be able to quickly identify the name of these fields for which we want to generate fictitious values.**
+- How it knows it's on this bc instance is that we also have the function bc_useinstancebydefault to define bc instance by default in a specific context. 
+  
+![queryfields_1](https://github.com/nuage365/Shellbots.ai/assets/102873102/9c39fc83-b932-4b53-920d-50ecd49bc3e8)
+
+![queryfields_2](https://github.com/nuage365/Shellbots.ai/assets/102873102/71a868da-3a2b-4161-97ed-378777ee7052)
+
+## Creating a dataset in shellbots
+- **Creating a dataset allows one or more tables to define for each field what value it can have via a prompt or specific directives.**
+  
+![dataset_create1](https://github.com/nuage365/Shellbots.ai/assets/102873102/aadc1bc5-7dd7-42b2-9f11-36e8a4d1eba7)
+
+Either you set a prompt or you have the option to add directives for your data. For example, here, a constant represented by $$ and which means that the value after the $$ must be the value for this field.   
+Instead of Must be the value "Domestic", you can set with Vendor_Posting_Group=$$DOMESTIC, you have the choice and multiple constants for your data generation.
+
+![dataset_create2](https://github.com/nuage365/Shellbots.ai/assets/102873102/2717fc62-616c-4b80-9013-20739cf013ae)
+
+
+
+
 
 
 
