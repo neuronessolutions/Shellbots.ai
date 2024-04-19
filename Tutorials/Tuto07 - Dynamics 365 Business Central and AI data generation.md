@@ -28,7 +28,7 @@ Another tutorial will cover code generation and data querying via an LLM (Large 
 
 ![vendorcardbusinesscentral_3](https://github.com/nuage365/Shellbots.ai/assets/102873102/88a17267-867d-41f3-868c-88cf27d93ca9)
 
-## Creating extension functions for BC in shellbots
+## Creating extension functions for Microsoft Dynamics 365 Business Central in shellbots
 - For the client's needs, we created several functions to easily query ERP objects and table structures outside of Business Central.
   - **bc_addinstance** (see Tuto02)
   - **bc_getinstance** (see Tuto02)
@@ -37,8 +37,31 @@ Another tutorial will cover code generation and data querying via an LLM (Large 
   - **bc_getfields**
   - **bc_queryobjects**
   - **bc_queryfields**   
+### bc_getobjects
+- **This function allows you to synchronize modified objects including the latest extensions developed in the vector database of the current shellbots context from a selected Business Central instance.**
+- This will then make it possible to use this data on the objects in other functions, in an LLM, etc.
+  
+![getobjects1](https://github.com/nuage365/Shellbots.ai/assets/102873102/1a66009d-f6d3-42e8-9168-cb3f7de1f8fe)
 
+![getobjects2](https://github.com/nuage365/Shellbots.ai/assets/102873102/dbf660b7-2b7f-45e6-b98b-f03ead5b0146)
 
+![getobjects3](https://github.com/nuage365/Shellbots.ai/assets/102873102/63abcf2b-27db-45b6-8583-feba581a5654)
+
+### bc_getfields
+- **Same principle as bc_getobjects but this function synchronizes all the fields of all Business Central tables.**
+
+![getfields1](https://github.com/nuage365/Shellbots.ai/assets/102873102/cd10f67d-74f6-4fc0-bf35-61e4e1f6fa4b)
+
+![getfields2](https://github.com/nuage365/Shellbots.ai/assets/102873102/a250f8c8-a88d-47e5-a8d3-8c6a08450545)
+
+### bc_queryobjects
+- This function allows you to query any object including BC system objects.
+
+Here, for example, we search for all objects with the name "G/L entry" to search for objects linked to accounting entries
+![queryobjects1](https://github.com/nuage365/Shellbots.ai/assets/102873102/6b364aec-3b87-4007-b22d-853c80be9d2f)
+
+Same thing here but for vendors
+![queryobjects2](https://github.com/nuage365/Shellbots.ai/assets/102873102/c9ee5bdd-fb2a-4cef-8abc-727d1eef4b6c)
 
 
 
