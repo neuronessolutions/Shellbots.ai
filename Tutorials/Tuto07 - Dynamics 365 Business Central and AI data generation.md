@@ -40,6 +40,7 @@ Another tutorial will cover code generation and data querying via an LLM (Large 
 ### bc_getobjects
 - **This function allows you to synchronize modified objects including the latest extensions developed in the vector database of the current shellbots context from a selected Business Central instance.**
 - This will then make it possible to use this data on the objects in other functions, in an LLM, etc.
+- If a developer adds new fields or objects via an extension, simply re-run the command (a bit like a check-in on github) to update all the objects in each of your environments.
   
 ![getobjects1](https://github.com/nuage365/Shellbots.ai/assets/102873102/1a66009d-f6d3-42e8-9168-cb3f7de1f8fe)
 
