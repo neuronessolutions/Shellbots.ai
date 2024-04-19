@@ -21,6 +21,25 @@ Another tutorial will cover code generation and data querying via an LLM (Large 
 * In particular, company names, addresses, emails, telephone numbers, etc.
 * This will allow us to run tests on fictitious data but allowing us to test new features by focusing our data on our reality.
 
+## Example of an existing supplier record in BC
+- The fields in yellow are those we want to generate data from to obtain a set of approximately 50 new suppliers.
+- There are also values ​​that we want to set as default and which are mandatory. We will not ask the AI ​​to generate values ​​but just to put a specific value.
+![vendorcardbusinesscentral_4](https://github.com/nuage365/Shellbots.ai/assets/102873102/a267e7cf-8900-4578-b95e-858f9dc3d3a8)
+
+![vendorcardbusinesscentral_3](https://github.com/nuage365/Shellbots.ai/assets/102873102/88a17267-867d-41f3-868c-88cf27d93ca9)
+
+## Creating extension functions for BC in shellbots
+- For the client's needs, we created several functions to easily query ERP objects and table structures outside of Business Central.
+  - **bc_addinstance** (see Tuto02)
+  - **bc_getinstance** (see Tuto02)
+  - **bc_removeinstance** (see Tuto02)
+  - **bc_getobjects**
+  - **bc_getfields**
+  - **bc_queryobjects**
+  - **bc_queryfields**   
+
+
+
 
 
 `If you have any questions, feel free to send me a connection on Linkedin at` https://www.linkedin.com/in/dominiquedelaire/ `or contact us on our website` https://nuage365.ca `for our AI services or to make an appointment.`
