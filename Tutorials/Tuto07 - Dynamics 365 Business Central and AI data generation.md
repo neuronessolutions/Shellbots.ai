@@ -78,6 +78,7 @@ Now we will list all the fields in vendor table 23 and use function **bc_queryfi
 
 ## Creating a dataset in shellbots
 - **Creating a dataset allows one or more tables to define for each field what value it can have via a prompt or specific directives.**
+- To do that, we execute **dataset_create function**
   
 ![dataset_create1](https://github.com/nuage365/Shellbots.ai/assets/102873102/aadc1bc5-7dd7-42b2-9f11-36e8a4d1eba7)
 
