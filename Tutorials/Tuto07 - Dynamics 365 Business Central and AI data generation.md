@@ -81,13 +81,48 @@ Now we will list all the fields in vendor table 23 and use function **bc_queryfi
 ![dataset_create1](https://github.com/nuage365/Shellbots.ai/assets/102873102/aadc1bc5-7dd7-42b2-9f11-36e8a4d1eba7)
 
 Either you set a prompt or you have the option to add directives for your data. For example, here, a constant represented by $$ and which means that the value after the $$ must be the value for this field.   
-Instead of Must be the value "Domestic", you can set with Vendor_Posting_Group=$$DOMESTIC, you have the choice and multiple constants for your data generation.
+Instead of Must be the value "Domestic", you can set with Vendor_Posting_Group=$$DOMESTIC, you have the choice and multiple constants for your data generation, not just prompt technics.
 
 ![dataset_create2](https://github.com/nuage365/Shellbots.ai/assets/102873102/2717fc62-616c-4b80-9013-20739cf013ae)
 
+## Creating a model and test execution
+- **for our customer, we created an AI model to generate the data based on our dataset architecture**
+- Customer can create unlimited dataset for several software (BC, Sales, 365 Finops, Netsuite, Salesforce, etc.) and use several models.
+- To test the model, simply run the ai_modelexec function. This allows you to test the model and the result directly in the shellbots OS and framework before deploying the service, for example in an Amazon ec2, Azure or Google cloud or a Docker.
+
+![ai_modelexec1](https://github.com/nuage365/Shellbots.ai/assets/102873102/ccbc2795-6126-47cc-a995-08637a6b9da7)
 
 
+![ai_modelexec2](https://github.com/nuage365/Shellbots.ai/assets/102873102/22475741-d97c-461e-b768-f3c3baa48347)
 
+
+![ai_modelresult](https://github.com/nuage365/Shellbots.ai/assets/102873102/5011187e-e382-4461-aa2e-9a6b2777d3f5)
+
+**This model, in this example, can create csv file and excel files. But we have other models to create directly datas in cloud Business central and dataverse for crm/powerapps apps via APIs.**
+
+**So now, in this example after generating 50 vendors records in csv format, we will integrate it into Business Central via a configuration package.**
+
+## Create configuration package and import to Business Central
+**We create a new package for import Vendors in BC**     
+![configpackage1](https://github.com/nuage365/Shellbots.ai/assets/102873102/207d82d8-4956-48ab-8e1f-43fdb1c18dc7)
+
+**Then, we define just our specific fields for import**   
+![configpackage2](https://github.com/nuage365/Shellbots.ai/assets/102873102/0a7ab37a-f353-4fde-8f39-01c48dc9e9a1)
+
+**After, we export to excel to get template file with xml map in excel for import**   
+![configpackage3](https://github.com/nuage365/Shellbots.ai/assets/102873102/74680a67-54ca-4529-b71a-33a156142b2a)
+
+**We open excel file, copy paste our datas with the same column without key (BC generate vendor code automatically), save and import.**   
+After, we applied package and import to get the new vendors in Business Central :)   
+![vendorinbc](https://github.com/nuage365/Shellbots.ai/assets/102873102/d5fc7f4f-9a9d-4942-afe0-22b1ac0f1acb)
+
+**When we select a specific vendor, We get the data that was generated with our shellbots model**   
+![vendorinbc2](https://github.com/nuage365/Shellbots.ai/assets/102873102/6f63fd0b-405a-41d1-abb2-acb8791b3bca)
+
+![vendorinbc3](https://github.com/nuage365/Shellbots.ai/assets/102873102/a9ca73b2-fd5b-4ed4-a30a-ff2377a8898e)
+
+## Next step
+**The next step for the client is to have an LLM for their data but also to be able to query fields and objects in natural language and give instructions to create datasets automatically. We will see this in a future tutorial.**
 
 
 
