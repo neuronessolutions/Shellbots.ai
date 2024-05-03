@@ -21,7 +21,8 @@ Framework and Operating system to create custom AI services and process.
 [Tuto04 - Machine Learning and LLM management module](https://github.com/nuage365/Shellbots.ai/blob/main/Tutorials/Tuto04%20-%20Machine%20Learning%20and%20LLM%20management%20module.md)   
 [Tuto05 - Deployment of our AI services for our clients](https://github.com/nuage365/Shellbots.ai/blob/main/Tutorials/Tuto05%20-%20Deployment%20of%20our%20AI%20services%20for%20our%20clients.md)   
 [Tuto06 - Example of part of an AI service dedicated to gastronomy (AiFood) for chefs, restaurants, hotels](https://github.com/nuage365/Shellbots.ai/blob/main/Tutorials/Tuto06%20-%20Example%20of%20part%20of%20an%20AI%20service%20dedicated%20to%20gastronomy%20(AiFood)%20for%20chefs%2C%20restaurants%2C%20hotels.md)   
-[Tuto07 - Dynamics 365 Business Central and AI data generation](https://github.com/nuage365/Shellbots.ai/blob/main/Tutorials/Tuto07%20-%20Dynamics%20365%20Business%20Central%20and%20AI%20data%20generation.md)
+[Tuto07 - Dynamics 365 Business Central and AI data generation](https://github.com/nuage365/Shellbots.ai/blob/main/Tutorials/Tuto07%20-%20Dynamics%20365%20Business%20Central%20and%20AI%20data%20generation.md)   
+[Tuto08 - Scoring of Ai engines with Shellbots](https://github.com/nuage365/Shellbots.ai/blob/main/Tutorials/Tuto08%20-%20Scoring%20of%20Ai%20engines%20with%20shellbots.md)   
 
 
 ## Documentation
