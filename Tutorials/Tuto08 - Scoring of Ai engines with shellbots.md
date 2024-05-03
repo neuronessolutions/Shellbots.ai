@@ -2,11 +2,11 @@
 > Version 2024.05.02.1, Author : Dominique Delaire
 
 ## Introduction
-**This tutorial helps to understand how we can score between different AI engines to compare them and see where they excel in a specific area**
+**This tutorial helps to `understand how we can score between different AI engines to compare them and see where they excel in a specific area`**
 
 **For some of our clients, and before developing specific AI services with the shellbots framework and accelerator platform, we can determine which are the best AI engines on the market depending on the client's domain or need.**
 
-**To perform scoring or matches between AI engines in shellbots, we have 2 methods, a manual method and a method controlled by our internal inference engine**
+**To perform scoring or matches between AI engines in shellbots, we have 2 methods, a `manual` method and a `method controlled by our internal inference engine`**
 
 ## Scoring AI engines using the manual method
 
@@ -62,7 +62,7 @@ With the prompt in french : "Génère moi un poème de 4 lignes en français" (G
 
 **We can combine manual and automatic assessments for the client depending on the sector. This can also work for models that use image generation.**
 
-**Thanks to its framework, its accelerator functions and the Python language, we can create battles between dozens of specialized engines from the client's domain and create specific models very quickly!**
+**Thanks to its framework, its accelerator functions and the Python language, `we can create battles between dozens of specialized engines from the client's domain and create specific models very quickly! before starting an AI project for a client :)`**
 
-
+`If you have any questions, feel free to send me a connection on Linkedin at` https://www.linkedin.com/in/dominiquedelaire/ `or contact us on our website` https://nuage365.ca `for our AI services or to make an appointment.`
 
