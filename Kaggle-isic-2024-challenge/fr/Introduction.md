@@ -1,3 +1,12 @@
+# Introduction - Module de détection de mélanomes
+> Version 2024.08.31,1, Auteur : Dominique Delaire
+
+
+This module **is part of a series of 4 other modules which constitute the Shellbots OS and framework for creating innovative AI services.**
+
+In this tutorial, we will detail the operation of **the first module and which concerns the management of the sequencing of shellbot AI models**.
+
+
 Dans un monde où les technologies de l'intelligence artificielle évoluent à une vitesse fulgurante, leur application dans le domaine médical devient de plus en plus cruciale. Parmi les nombreux défis que les professionnels de la santé doivent relever, la détection précoce du mélanome, une forme agressive de cancer de la peau, est particulièrement primordiale. C'est dans cette optique que cet article propose une exploration approfondie d'un système de machine learning capable de différencier les grains de beauté bénins des mélanomes potentiels à partir d'images dermatologiques.
 
 Ce projet ambitieux se décompose en quatre parties. Nous commencerons par une introduction à l'utilisation de Shellbots, un environnement puissant pour le développement de modèles de machine learning. Nous montrerons comment intégrer efficacement Dataiku pour la préparation et l'analyse des données d'image, une étape cruciale pour garantir la précision des prédictions. Ensuite, nous plongerons dans l'utilisation de Pytorch, une bibliothèque de deep learning, pour entraîner un modèle capable d'identifier les caractéristiques distinctives d'un mélanome. Enfin, nous démontrerons comment ce modèle peut être intégré dans Shellbots pour offrir un outil précieux aux médecins, dermatologues et patients.
