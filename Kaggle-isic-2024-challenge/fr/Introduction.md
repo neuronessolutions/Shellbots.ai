@@ -38,9 +38,9 @@ https://www.fc.up.pt/addi/ph2%20database.html
 
 ## Sélection des données
 
-Nous avons sélectionné 3500 images présentant des grains de beauté avec un cas de mélanome et 3500 images présentant des grains de beauté bénin.
+Pour l'exemple ici, nous avons sélectionné 3500 images présentant des grains de beauté avec un cas de mélanome et 3500 images présentant des grains de beauté bénin.
 
-Nous avons équilibré nos données.
+Nous avons essayé d'équilibrer nos données.
 
 La prochaine étape va être de trier et de classifier les données dans un nouveau modèle. Pour cela, nous allons utiliser Dataiku intégré à Shellbots.
 
